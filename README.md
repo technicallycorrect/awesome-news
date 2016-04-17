@@ -18,3 +18,8 @@
 - [Times of India](http://timesofindia.indiatimes.com/tech/tech-news/Man-deletes-his-whole-company-after-typing-wrong-code/articleshow/51839909.cms)
 - [India Today](http://indiatoday.intoday.in/story/youve-been-erased-man-deletes-whole-company-with-wrong-code/1/643643.html)
 - [9news](http://www.9news.com.au/technology/2016/04/15/11/09/man-accidentally-deletes-entire-company)
+- [The Marshalltown](http://www.themarshalltown.com/2016/04/16/man-deletes-his-entire-company-with-a-bad-line-of-code/)
+- [Digital Spy](http://www.digitalspy.com/tech/news/a790825/oops-this-guy-just-deleted-his-entire-company-with-one-dodgy-bit-of-coding/)
+- [The American Bazaar](http://www.americanbazaaronline.com/2016/04/15/writing-wrong-code-sends-into-oblivion-a-business-and-its-1535-clients-websites410018/)
+- [HostSearch](http://www.hostsearch.com/news/web-hosting-company-owner-deletes-everything-on-servers.asp)
+- [Inquisitr](http://www.inquisitr.com/2998435/bad-code-owner-accidentally-deletes-his-entire-business-including-backups/)
